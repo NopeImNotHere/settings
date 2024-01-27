@@ -1,0 +1,8 @@
+{
+    "php.validate.executablePath": "",
+    "workbench.colorTheme": "Monokai",
+    "[lua]": {
+        "editor.defaultFormatter": "sumneko.lua"
+    },
+    "security.workspace.trust.untrustedFiles": "open"
+}
