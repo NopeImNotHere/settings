@@ -11,12 +11,12 @@
     },
     {
         "identifier": "alefragnani.project-manager",
-        "version": "12.7.0",
+        "version": "12.8.0",
         "enabled": true
     },
     {
         "identifier": "bmewburn.vscode-intelephense-client",
-        "version": "1.10.2",
+        "version": "1.10.4",
         "enabled": true
     },
     {
@@ -46,7 +46,7 @@
     },
     {
         "identifier": "DavidAnson.vscode-markdownlint",
-        "version": "0.53.0",
+        "version": "0.54.0",
         "enabled": true
     },
     {
@@ -56,22 +56,22 @@
     },
     {
         "identifier": "DEVSENSE.composer-php-vscode",
-        "version": "1.43.14858",
+        "version": "1.45.15192",
         "enabled": true
     },
     {
         "identifier": "DEVSENSE.intelli-php-vscode",
-        "version": "0.12.14619",
+        "version": "0.12.15062",
         "enabled": true
     },
     {
         "identifier": "DEVSENSE.phptools-vscode",
-        "version": "1.43.14858",
+        "version": "1.45.15192",
         "enabled": true
     },
     {
         "identifier": "DEVSENSE.profiler-php-vscode",
-        "version": "1.43.14858",
+        "version": "1.45.15192",
         "enabled": true
     },
     {
@@ -86,12 +86,12 @@
     },
     {
         "identifier": "EliverLara.andromeda",
-        "version": "1.8.1",
+        "version": "1.8.2",
         "enabled": true
     },
     {
         "identifier": "esbenp.prettier-vscode",
-        "version": "10.1.0",
+        "version": "10.4.0",
         "enabled": true
     },
     {
@@ -146,12 +146,12 @@
     },
     {
         "identifier": "justarandomgeek.factoriomod-debug",
-        "version": "1.1.39",
+        "version": "1.1.41",
         "enabled": true
     },
     {
         "identifier": "Katsute.settings-repository",
-        "version": "1.0.8",
+        "version": "1.0.9",
         "enabled": true
     },
     {
@@ -165,23 +165,28 @@
         "enabled": true
     },
     {
+        "identifier": "ms-python.debugpy",
+        "version": "2024.4.0",
+        "enabled": false
+    },
+    {
         "identifier": "ms-python.isort",
         "version": "2023.10.1",
         "enabled": true
     },
     {
         "identifier": "ms-python.python",
-        "version": "2023.22.1",
+        "version": "2024.4.0",
         "enabled": true
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2023.12.1",
+        "version": "2024.4.1",
         "enabled": true
     },
     {
         "identifier": "ms-toolsai.jupyter",
-        "version": "2023.11.1100101639",
+        "version": "2024.2.0",
         "enabled": true
     },
     {
@@ -231,12 +236,12 @@
     },
     {
         "identifier": "PKief.material-icon-theme",
-        "version": "4.33.0",
+        "version": "4.34.0",
         "enabled": true
     },
     {
         "identifier": "Prisma.prisma",
-        "version": "5.8.1",
+        "version": "5.12.1",
         "enabled": true
     },
     {
@@ -261,7 +266,7 @@
     },
     {
         "identifier": "rvest.vs-code-prettier-eslint",
-        "version": "5.1.0",
+        "version": "6.0.0",
         "enabled": true
     },
     {
@@ -276,7 +281,7 @@
     },
     {
         "identifier": "svelte.svelte-vscode",
-        "version": "108.2.1",
+        "version": "108.3.4",
         "enabled": true
     },
     {
